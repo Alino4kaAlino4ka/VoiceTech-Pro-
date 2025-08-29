@@ -1,10 +1,8 @@
-Отличное название! Вот как красиво можно вставить ссылку на ваш Colab проект в README.md:
 
 # 🎯 VoiceTech Pro: Комплексная система обработки и анализа речи
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MhNXWd9MzGE2Myr29vBvSuwjhRkwTCzo#scrollTo=z9LhQlM_LG6H)
- 
-# 🎯 VoiceTech Pro: Комплексная система обработки и анализа речи [https://colab.research.google.com/drive/1MhNXWd9MzGE2Myr29vBvSuwjhRkwTCzo#scrollTo=z9LhQlM_LG6H]
+
 
 ## 📋 Оглавление
 1. [Обзор проекта](#-обзор-проекта)
@@ -185,10 +183,21 @@ create_tts_audio("Привет, как дела?", "output.wav")
 
 ## 📞 Контакты
 
-По вопросам и предложениям обращайтесь:
-- Email: (AlinaSGrib@gmail.com)
-- GitHub: (https://github.com/Alino4kaAlino4ka)
-- Telegram: [https://t.me/Alino4kaGribavova]
+**💬 По вопросам сотрудничества и предложениям:**
+
+<div align="center">
+
+### 📧 Электронная почта
+[![Email](https://img.shields.io/badge/📩-AlinaSGrib@gmail.com-8B89CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AlinaSGrib@gmail.com)
+
+### 💻 GitHub
+[![GitHub](https://img.shields.io/badge/🐙-Alino4kaAlino4ka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alino4kaAlino4ka)
+
+### 📱 Telegram
+[![Telegram](https://img.shields.io/badge/✈️-@Alino4kaGribavova-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alino4kaGribavova)
+
+</div>
+
 
 ## 🙏 Благодарности
 
