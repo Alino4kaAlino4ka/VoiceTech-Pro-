@@ -1,4 +1,9 @@
+Отличное название! Вот как красиво можно вставить ссылку на ваш Colab проект в README.md:
 
+# 🎯 VoiceTech Pro: Комплексная система обработки и анализа речи
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MhNXWd9MzGE2Myr29vBvSuwjhRkwTCzo#scrollTo=z9LhQlM_LG6H)
+ 
 # 🎯 VoiceTech Pro: Комплексная система обработки и анализа речи [https://colab.research.google.com/drive/1MhNXWd9MzGE2Myr29vBvSuwjhRkwTCzo#scrollTo=z9LhQlM_LG6H]
 
 ## 📋 Оглавление
