@@ -1,5 +1,5 @@
 
-# 🎯 VoiceTech Pro: Комплексная система обработки и анализа речи (https://colab.research.google.com/drive/1MhNXWd9MzGE2Myr29vBvSuwjhRkwTCzo#scrollTo=z9LhQlM_LG6H)
+# 🎯 VoiceTech Pro: Комплексная система обработки и анализа речи [https://colab.research.google.com/drive/1MhNXWd9MzGE2Myr29vBvSuwjhRkwTCzo#scrollTo=z9LhQlM_LG6H]
 
 ## 📋 Оглавление
 1. [Обзор проекта](#-обзор-проекта)
@@ -183,7 +183,7 @@ create_tts_audio("Привет, как дела?", "output.wav")
 По вопросам и предложениям обращайтесь:
 - Email: (AlinaSGrib@gmail.com)
 - GitHub: (https://github.com/Alino4kaAlino4ka)
-- Telegram: (https://t.me/Alino4kaGribavova)
+- Telegram: [https://t.me/Alino4kaGribavova]
 
 ## 🙏 Благодарности
 
