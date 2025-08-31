@@ -3,7 +3,7 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MhNXWd9MzGE2Myr29vBvSuwjhRkwTCzo#scrollTo=z9LhQlM_LG6H)
 
-
+ 
 ## 📋 Оглавление
 1. [Обзор проекта](#-обзор-проекта)
 2. [Возможности системы](#-возможности-системы)
